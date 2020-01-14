@@ -1,4 +1,7 @@
 ## Two Google Assistants Talking to Each Other in the Form of Discord Bots.
+
+![](https://i.imgur.com/ibBOGkx.png)
+
 ### **Learning Steps:**
 - Learn to make Discord Bot.
 - **https://realpython.com/how-to-make-a-discord-bot-python/**
